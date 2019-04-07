@@ -1,5 +1,6 @@
 # Azure SQL Data Warehouse를 활용한 Hands on Lab
-
+<img src="https://github.com/ghahm/HOL-AZURE-SQL-DW-with-TPCH/blob/master/SQLDW.jpg">
+  
 ### [Lab-01] <a href="https://github.com/ghahm/HOL-AZURE-SQL-DW-with-TPCH/wiki/Lab-01.-ADF를-이용하여-tpch-데이터를-SQL-DW-테이블에-적재하기">ADF를 이용하여 tpch 데이터를 SQL DW 테이블에 적재하기</a>
 
 
